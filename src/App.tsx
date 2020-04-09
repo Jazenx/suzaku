@@ -1,9 +1,14 @@
 import React from 'react'
-import useSWR from 'swr'
-import './App.css'
+import { ThemeProvider } from 'styled-components'
+import theme from './theme'
+import Home from './views/home'
 
 function App() {
-  return <div className="App"></div>
+  return (
+    <ThemeProvider theme={theme}>
+      <Home />
+    </ThemeProvider>
+  )
 }
 
 export default App
