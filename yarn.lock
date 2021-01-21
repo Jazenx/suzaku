@@ -3862,12 +3862,7 @@ cssstyle@^1.0.0, cssstyle@^1.1.1:
   dependencies:
     cssom "0.3.x"
 
-csstype@^2.2.0, csstype@^2.6.9:
-  version "2.6.10"
-  resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.10.tgz#e63af50e66d7c266edb6b32909cfd0aabe03928b"
-  integrity sha512-D34BqZU4cIlMCY93rZHbrq9pjTAQJ3U8S8rfBqjwHxkGPThWFjzZDQpgMJY0QViLxth6ZKYiwFBo14RdN44U/w==
-
-csstype@^2.6.10:
+csstype@^2.2.0, csstype@^2.6.10, csstype@^2.6.9:
   version "2.6.10"
   resolved "https://registry.npm.taobao.org/csstype/download/csstype-2.6.10.tgz?cache=0&sync_timestamp=1585556974236&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcsstype%2Fdownload%2Fcsstype-2.6.10.tgz#e63af50e66d7c266edb6b32909cfd0aabe03928b"
   integrity sha1-5jr1DmbXwmbttrMpCc/Qqr4Dkos=
@@ -5834,10 +5829,10 @@ immer@1.10.0:
   resolved "https://registry.yarnpkg.com/immer/-/immer-1.10.0.tgz#bad67605ba9c810275d91e1c2a47d4582e98286d"
   integrity sha512-O3sR1/opvCDGLEVcvrGTMtLac8GJ5IwZC4puPrLuRj3l7ICKvkmA0vGuU9OW8mV9WIBRnaxp5GJh9IEAaNOoYg==
 
-immer@^6.0.3:
-  version "6.0.3"
-  resolved "https://registry.npm.taobao.org/immer/download/immer-6.0.3.tgz#94d5051cd724668160a900d66d85ec02816f29bd"
-  integrity sha1-lNUFHNckZoFgqQDWbYXsAoFvKb0=
+immer@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/immer/-/immer-8.0.1.tgz#9c73db683e2b3975c424fb0572af5889877ae656"
+  integrity sha512-aqXhGP7//Gui2+UrEtvxZxSquQVXTpZ7KDxfCcKAF3Vysvw0CViVaW9RZ1j1xlIYqaaaipBoqdqeibkc18PNvA==
 
 import-cwd@^2.0.0:
   version "2.1.0"
